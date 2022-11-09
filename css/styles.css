@@ -1,0 +1,11 @@
+.card{
+    max-width: 15%;
+    display: inline-flex;
+}
+
+.field{
+    max-width: 20vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
